@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e3ccc4f-670e-40e7-9941-a55de3b1453d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6e3ccc4f-670e-40e7-9941-a55de3b1453d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,7 +135,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1862" />
+    <option name="x" value="58" />
     <option name="y" value="23" />
     <option name="width" value="1645" />
     <option name="height" value="1006" />
@@ -238,16 +236,15 @@
       <workItem from="1559021776145" duration="37000" />
       <workItem from="1559149904149" duration="319000" />
       <workItem from="1559181353671" duration="189000" />
-      <workItem from="1559181614409" duration="532000" />
+      <workItem from="1559181614409" duration="534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3147000" />
+    <option name="totallyTimeSpent" value="3149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1862" y="23" width="1645" height="1006" extended-state="0" />
-    <editor active="true" />
+    <frame x="58" y="23" width="1645" height="1006" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
